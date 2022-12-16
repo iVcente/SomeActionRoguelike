@@ -6,6 +6,12 @@
 .vs/
 .vsconfig
 
+# Rider
+.idea/
+
+# Developer Plugins
+Plugins/Developer
+
 # Compiled Object files
 *.slo
 *.lo
